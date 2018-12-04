@@ -1,10 +1,10 @@
 import clock from "clock";
 import { FitbitFlip } from 'fitbit-flip';
 
-const hour1 = new FitbitFlip({id: "hour1", img_width: 84,img_height: 67});
-const hour2 = new FitbitFlip({id: "hour2", img_width: 84,img_height: 67});
-const minute1 = new FitbitFlip({id: "minute1", img_width: 64,img_height: 47});
-const minute2 = new FitbitFlip({id: "minute2", img_width: 64,img_height: 47});
+const hour1 = new FitbitFlip({id: "hour1", img_width: 84,img_height: 67, duration: 1});
+const hour2 = new FitbitFlip({id: "hour2", img_width: 84,img_height: 67, duration: 1});
+const minute1 = new FitbitFlip({id: "minute1", img_width: 64,img_height: 47, duration: 1});
+const minute2 = new FitbitFlip({id: "minute2", img_width: 64,img_height: 47, duration: 1});
 
 
 function changeTime(elem, oldTime, newTime) {
