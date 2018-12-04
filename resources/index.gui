@@ -1,6 +1,6 @@
 <svg>
     <use href="#fitbit-flip" id="hour1" x="0" y="65" />
     <use href="#fitbit-flip" id="hour2" x="90" y="65" />
-    <use href="#fitbit-flip" id="minute1" x="190" y="65" />
-    <use href="#fitbit-flip" id="minute2" x="265" y="65" />
+    <use href="#fitbit-flip" id="minute1" x="180" y="85" />
+    <use href="#fitbit-flip" id="minute2" x="250" y="85" />
 </svg>
