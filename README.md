@@ -1,6 +1,6 @@
 # Demo of fitbit-flip linrary
 
-This library allows you create flip animations in Fitbit apps and clockfaces.
+This simple digital is a demo of flip-animation library fitbit-flip.
 
 ![Example](screenshot.gif "Example")
 
