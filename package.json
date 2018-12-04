@@ -1,0 +1,30 @@
+{
+  "name": "fitbit-flip-demo",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@fitbit/sdk": "~1.0.4",
+    "@fitbit/sdk-cli": "^1.0.2"
+  },
+  "fitbit": {
+    "appUUID": "2644ce1b-a46e-4c39-bf65-3b1255537487",
+    "appType": "clockface",
+    "appDisplayName": "Fitbit Flip Demo",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffffff",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {}
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  },
+  "dependencies": {
+    "fitbit-flip": "^0.1.1"
+  }
+}
