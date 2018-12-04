@@ -1,4 +1,4 @@
-# Demo of fitbit-flip linrary
+# Demo of fitbit-flip library
 
 This simple digital is a demo of flip-animation library fitbit-flip.
 
