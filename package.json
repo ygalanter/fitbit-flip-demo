@@ -2,7 +2,7 @@
   "name": "fitbit-flip-demo",
   "version": "0.1.0",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "@fitbit/sdk": "~1.0.4",
     "@fitbit/sdk-cli": "^1.0.2"
@@ -23,8 +23,5 @@
   "scripts": {
     "build": "fitbit-build",
     "debug": "fitbit"
-  },
-  "dependencies": {
-    "fitbit-flip": "^0.1.2"
   }
 }
