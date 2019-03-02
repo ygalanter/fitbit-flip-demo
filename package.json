@@ -23,5 +23,8 @@
   "scripts": {
     "build": "fitbit-build",
     "debug": "fitbit"
+  },
+  "dependencies": {
+    "fitbit-flip": "^0.2.0"
   }
 }
